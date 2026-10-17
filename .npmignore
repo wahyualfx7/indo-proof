@@ -1,0 +1,7 @@
+test/
+.github/
+keys/
+*.private.pem
+*.proof.json
+*.zip
+*.tgz

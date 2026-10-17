@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+keys/
+*.private.pem
+*.proof.json
+*.tgz
+*.zip
+coverage/
+*.log
+.DS_Store
